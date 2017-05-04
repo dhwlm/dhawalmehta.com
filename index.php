@@ -7,10 +7,11 @@
     <title>Dhawal Mehta | Developer | Guitarist</title>
     <meta name="description" content="Dhawal Mehta is an experienced User Interface Designer & Developer with a demonstrated history of working in the internet industry.">
 	  <meta name="keywords" content="UI, CMS, Ecommerce, CodeIgniter, Bootstrap, Chrome Extension, Photoshop, Wordpress, AJAX, Responsive Design, Opencart, HTML5, CSS3, jQuery, Javascript, guitar, PRS, Paul Reed Smith, Line6, line 6, POD HD500, POD, HD500">
+     <link rel="shortcut icon" href="img/favicon.png">
     <!-- Bootstrap -->
 		<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css" />
-		<link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
-    <link rel="shortcut icon" href="img/favicon.png">
+		<link rel="stylesheet" type="text/css" href="css/tilteffect.css" />
+      <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 
   </head>
   <body>
@@ -19,7 +20,13 @@
 		  <div class="row">
 		    <div class="col-lg-12 intro-cont">
           <div class="intro text-center">
-            <img src="img/bg.png" alt="Dhawal Mehta | Developer | Web Designer | Web Developer | Guitarist">
+             <div class="img-cont">
+                <div class="img-mar">
+                   <div class="img-pad">
+                      <img src="img/bg.png" alt="Dhawal Mehta | Developer | Web Designer | Web Developer | Guitarist" class="tilt-effect" alt="grid01" data-tilt-options='{ "opacity" : 0.3, "extraImgs" : 3, "movement": { "perspective" : 1200, "translateX" : -5, "translateY" : -5, "rotateX" : -5, "rotateY" : -5 } }'>
+                   </div>
+                </div>
+             </div>
             I am <div class="intro-text-type"></div>
           </div>
           <div class="branding text-center">
@@ -29,12 +36,13 @@
 		  </div>
 		</div>
 
-   	<script src="js/jquery.js"></script>
-		<script src="js/bootstrap.js"></script>
-    <script src="js/typed.js"></script>
-    <script src="js/common.js"></script>
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.js"></script>
+   <script src="js/typed.js"></script>
+   <script src="js/tiltfx.js"></script>
+   <script src="js/common.js"></script>
 
-		<script>
+	<script>
 
     $(function(){
         $(".intro-text-type").typed({
@@ -44,7 +52,7 @@
           backDelay: 1000
         });
     });
-		</script>
+	</script>
 
    <script>
      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

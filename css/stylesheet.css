@@ -19,6 +19,12 @@ body{background: url(../img/bg4.jpg) center top no-repeat #a4a4a4; background-si
     animation: blink 0.7s infinite;
 }
 
+.img-cont{max-width: 430px; position: relative; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap; -webkit-justify-content: center;  -ms-justify-content: center;  justify-content: center;
+    list-style: none; margin: 0 auto;}
+.img-pad{position: relative; height: 0;  padding-bottom: 160.714%;  overflow: hidden;}
+.img-mar{margin: 0 60px 80px; width: 100%;}
+.tilt{  position: absolute;top: 0;}
+
 @keyframes blink{
     0% { opacity:1; }
     50% { opacity:0; }
