@@ -9,7 +9,7 @@
 	  <meta name="keywords" content="UI, CMS, Ecommerce, CodeIgniter, Bootstrap, Chrome Extension, Photoshop, Wordpress, AJAX, Responsive Design, Opencart, HTML5, CSS3, jQuery, Javascript, guitar, PRS, Paul Reed Smith, Line6, line 6, POD HD500, POD, HD500">
     <!-- Bootstrap -->
 		<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css" />
-		<link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+      <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
     <link rel="shortcut icon" href="img/favicon.png">
 
   </head>
@@ -19,7 +19,7 @@
 		  <div class="row">
 		    <div class="col-lg-12 intro-cont">
           <div class="intro text-center">
-            <img src="img/bg.png" alt="Dhawal Mehta | Developer | Web Designer | Web Developer | Guitarist">
+            <img src="img/bg2.png" alt="Dhawal Mehta | Developer | Web Designer | Web Developer | Guitarist">
             I am <div class="intro-text-type"></div>
           </div>
           <div class="branding text-center">
