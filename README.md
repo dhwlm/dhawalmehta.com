@@ -1,6 +1,6 @@
 # Dhawal Mehta | Developer | Guitarist
 
-I am an experienced User Interface Designer & Developer with a demonstrated history of working in the internet industry.
+I am an experienced User Interface Designer & Developer.
 
 This is a repo for my website [www.dhawalmehta.com](http://www.dhawalmehta.com "Dhawal Mehta")
 

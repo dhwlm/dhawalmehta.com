@@ -32,7 +32,7 @@
 
               </div>
               <div class="branding text-center">
-                <p><button id="showMenu"><i class="fa fa-bars" aria-hidden="true"></i></button></p>
+                <p><button id="showMenu"><i class="fa fa-bars" aria-hidden="true"></i> Know More</button></p>
                 Dhawal Mehta &copy; 2017 <a href="http://www.dhawalmehta.com" title="Dhawal Mehta">dhawalmehta.com</a>
               </div>
             </div>
