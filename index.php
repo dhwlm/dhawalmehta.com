@@ -40,7 +40,7 @@
         </div>
       </div>
       <nav class="outer-nav bottom horizontal">
-				<a href="javascript:void(0);" onclick="javascript:$('.container').trigger('click');"><i class="fa fa-home" aria-hidden="true"></i>Home</a>
+				<a href="javascript:void(0);" onclick="returnHome();"><i class="fa fa-home" aria-hidden="true"></i>Home</a>
 				<a href="http://blog.dhawalmehta.com/"><i class="fa fa-newspaper-o" aria-hidden="true"></i>Blog</a>
 				<a href="https://www.facebook.com/dhawal.mehta.75"><i class="fa fa-facebook-official" aria-hidden="true"></i>Facebook</a>
 				<a href="https://twitter.com/dhwlm"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a>
@@ -68,6 +68,10 @@
           backDelay: 1000
         });
     });
+
+    function returnHome() {
+        $('.container').trigger('click');
+    };
 		</script>
 
    <script>

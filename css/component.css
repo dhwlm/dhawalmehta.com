@@ -86,6 +86,7 @@ html, body, .perspective {
 }
 
 /* Outer Nav */
+
 .outer-nav {
 	position: absolute;
 	height: auto;
@@ -206,6 +207,14 @@ html, body, .perspective {
 
 .no-csstransforms3d .effect-rotatetop.animate .container {
 	top: -75%;
+}
+
+.effect-rotatetop .outer-nav {
+	display: none;
+}
+
+.effect-rotatetop.modalview .outer-nav {
+	display: block;
 }
 
 .effect-rotatetop .outer-nav a {
