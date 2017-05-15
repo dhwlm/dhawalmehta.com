@@ -53,10 +53,11 @@ button:hover,button:active {	background: #e86a32;}
     100% { opacity:1; }
 }
 
-@media only screen and (min-width : 1045px) {
-
-}
-
 @media only screen and (max-width : 629px) {
   .intro{font-size: 33px;}
+}
+
+
+@media only screen and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+  .effect-rotatetop.animate .container{-webkit-transform: translateZ(-1150px) translateY(-50%) rotateX(-50deg); transform: translateZ(-1150px) translateY(-50%) rotateX(-50deg);}
 }
