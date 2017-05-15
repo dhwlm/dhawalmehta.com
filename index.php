@@ -70,7 +70,7 @@
     });
 
     function returnHome() {
-        $('.container').trigger('click');
+        $('.container').trigger('click touchstart');
     };
 		</script>
 
