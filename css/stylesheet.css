@@ -30,7 +30,7 @@ body{background: url(../img/bg4.jpg) center top no-repeat #a4a4a4; background-si
     animation: blink 0.7s infinite;
 }
 
-button {	border: none;	padding: 0.6em 1.2em;	background: #a9a9a9;	color: #fff;	font-family: 'Lato', Calibri, Arial, sans-serif;	font-size: 2em;	letter-spacing: 1px;	text-transform: uppercase;	cursor: pointer;	display: inline-block;	margin: 10px;	border-radius: 2px;	font-weight: 400;outline: none;}
+button {	border: none;	padding: 0.6em 1.2em;	background: #a9a9a9;	color: #fff;	font-family: 'Lato', Calibri, Arial, sans-serif;	font-size: 1.5em;	letter-spacing: 1px;	text-transform: uppercase;	cursor: pointer;	display: inline-block;	margin: 10px;	border-radius: 2px;	font-weight: 400;outline: none;}
 
 button {	background: #ed8151;}
 
