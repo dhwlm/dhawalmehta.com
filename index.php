@@ -70,7 +70,8 @@
     });
 
     function returnHome() {
-        $('.container').trigger('click touchstart');
+        var clickHandler = ('ontouchstart' in document.documentElement ? "touchstart" : "click");
+        $('.container').trigger(clickHandler);
     };
 		</script>
 
