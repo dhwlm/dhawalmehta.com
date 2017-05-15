@@ -17,6 +17,7 @@ html, body, .perspective {
 .perspective {
 	/*background: #aaa;*/
 	position: relative;
+	min-height: 560px;
 }
 
 .container {
