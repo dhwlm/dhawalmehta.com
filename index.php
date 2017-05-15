@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Dhawal Mehta | Developer | Guitarist</title>
     <meta name="description" content="Dhawal Mehta is an experienced User Interface Designer & Developer with a demonstrated history of working in the internet industry.">
-    <meta name="keywords" content="UI, CMS, Ecommerce, CodeIgniter, Bootstrap, Chrome Extension, Photoshop, Wordpress, AJAX, Responsive Design, Opencart, HTML5, CSS3, jQuery, Javascript, guitar, PRS, Paul Reed Smith, Line6, line 6, POD HD500, POD, HD500, Dhawal Mehta, Dhawal, Mehta">
+    <meta name="keywords" content="dhawal, Mehta, UI, CMS, Ecommerce, CodeIgniter, Bootstrap, Chrome Extension, Photoshop, Wordpress, AJAX, Responsive Design, Opencart, HTML5, CSS3, jQuery, Javascript, guitar, PRS, Paul Reed Smith, Line6, line 6, POD HD500, POD, HD500, Dhawal Mehta, Dhawal, Mehta">
     <link rel="shortcut icon" href="img/favicon.png">
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css" />
@@ -16,6 +16,7 @@
 
     <!-- csstransforms3d-shiv-cssclasses-prefixed-teststyles-testprop-testallprops-prefixes-domprefixes-load -->
     <script src="js/modernizr.custom.25376.js"></script>
+    <meta name="google-site-verification" content="w1HmuQJ292m7QtIsb7AkcsisXk446OCpj6DZIsGYKQc" />
 
   </head>
   <body>
@@ -26,11 +27,11 @@
         <div class="wrapper">
           <div class="row">
             <div class="col-lg-12 intro-cont">
-              <div class="intro text-center">
-                <img src="img/bg2.png" alt="Dhawal Mehta | Developer | Web Designer | Web Developer | Guitarist">
+              <h1 class="intro text-center">
+                <img src="img/bg2.png" alt="Dhawal Mehta, Developer, Web Designer, Web Developer, Guitarist">
                 I am <div class="intro-text-type"></div>
 
-              </div>
+              </h1>
               <div class="branding text-center">
                 <p><button id="showMenu"><i class="fa fa-bars" aria-hidden="true"></i> Know More</button></p>
                 Dhawal Mehta &copy; 2017 <a href="http://www.dhawalmehta.com" title="Dhawal Mehta">dhawalmehta.com</a>

@@ -15,7 +15,7 @@ html,body{height: 100%;}
 body{background: url(../img/bg4.jpg) center top no-repeat #a4a4a4; background-size:cover; font-family: 'Open Sans Condensed',Arial, "Helvetica Neue", Helvetica, sans-serif; position: relative;}
 
 .intro-cont{position: fixed; width: 100%; height: 100%; top: 0; right: 0; left: 0; bottom: 0;}
-.intro{position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%); font-size: 40px; width: 100%;}
+.intro{position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%); font-size: 40px; width: 100%; margin: 0;  padding: 0;}
 .intro img{display: block;margin: 0 auto 30px; height: 300px; width: auto; }
 
 .branding{ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; position: absolute;left: 0; bottom: 5px; width: 100%; font-size: 10px;}
