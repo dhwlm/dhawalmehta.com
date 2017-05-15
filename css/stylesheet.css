@@ -1,4 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+
+*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+a {	text-decoration: none;	color: #ed8151;outline: none;}
+
+a:hover, a:focus {	color: #e86a32;outline: none;}
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before,.clearfix:after {	display: table;	content: " ";}
+.clearfix:after {	clear: both;}
+
 html,body{height: 100%;}
 
 body{background: url(../img/bg4.jpg) center top no-repeat #a4a4a4; background-size:cover; font-family: 'Open Sans Condensed',Arial, "Helvetica Neue", Helvetica, sans-serif; position: relative;}
@@ -18,6 +29,13 @@ body{background: url(../img/bg4.jpg) center top no-repeat #a4a4a4; background-si
     -moz-animation: blink 0.7s infinite;
     animation: blink 0.7s infinite;
 }
+
+button {	border: none;	padding: 0.6em 1.2em;	background: #a9a9a9;	color: #fff;	font-family: 'Lato', Calibri, Arial, sans-serif;	font-size: 2em;	letter-spacing: 1px;	text-transform: uppercase;	cursor: pointer;	display: inline-block;	margin: 10px;	border-radius: 2px;	font-weight: 400;outline: none;}
+
+button {	background: #ed8151;}
+
+button:hover,button:active {	background: #e86a32;}
+
 
 @keyframes blink{
     0% { opacity:1; }
