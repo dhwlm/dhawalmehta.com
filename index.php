@@ -28,7 +28,7 @@
           <div class="row">
             <div class="col-lg-12 intro-cont">
               <h1 class="intro text-center">
-                <img src="img/bg2.png" alt="Dhawal Mehta, Developer, Web Designer, Web Developer, Guitarist">
+                <img src="img/dhawal-mehta.png" alt="Dhawal Mehta, Developer, Web Designer, Web Developer, Guitarist">
                 I am <div class="intro-text-type"></div>
 
               </h1>
