@@ -66,17 +66,17 @@
     <section id="grid">
       <img src="img/gallery/dhawal-mehta-12.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-23.jpg" alt="Dhawal Mehta">
-      <img src="img/gallery/dhawal-mehta-11.JPG" alt="Dhawal Mehta">
+      <img src="img/gallery/dhawal-mehta-11.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-24.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-2.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-20.jpg" alt="Dhawal Mehta">
-      <img src="img/gallery/dhawal-mehta-6.JPG" alt="Dhawal Mehta">
-      <img src="img/gallery/dhawal-mehta-8.JPG" alt="Dhawal Mehta">
+      <img src="img/gallery/dhawal-mehta-6.jpg" alt="Dhawal Mehta">
+      <img src="img/gallery/dhawal-mehta-8.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-21.jpg" alt="Dhawal Mehta">
-      <img src="img/gallery/dhawal-mehta-9.JPG" alt="Dhawal Mehta">
+      <img src="img/gallery/dhawal-mehta-9.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-18.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-1.jpg" alt="Dhawal Mehta">
-      <img src="img/gallery/dhawal-mehta-10.JPG" alt="Dhawal Mehta">
+      <img src="img/gallery/dhawal-mehta-10.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-4.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-13.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-15.jpg" alt="Dhawal Mehta">
