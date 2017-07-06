@@ -15,7 +15,7 @@
     -moz-column-gap:      0px;
     column-count:         5;
     column-gap:           0px;
-  }
+  } 
 
   #grid img {
     /* Just in case there are inline attributes */
