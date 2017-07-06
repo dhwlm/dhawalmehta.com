@@ -15,7 +15,7 @@
     -moz-column-gap:      0px;
     column-count:         5;
     column-gap:           0px;
-  } 
+  }
 
   #grid img {
     /* Just in case there are inline attributes */
@@ -29,6 +29,9 @@
     opacity: 1;
     transform: rotate(0deg);
   }
+
+  .go-back{position: fixed; right: 20px; bottom: 20px; padding: 10px; font-size: 18px; line-height: 1; color: #FFF; background: #ed8151; box-shadow: 0px 0px 20px 2px rgba(255,255,255,0.6); -webkit-box-shadow: 0px 0px 20px 2px rgba(255,255,255,0.6); }
+  .go-back:hover{background: #e86a32; color: #FFF; transform: translateY(-2px);box-shadow: 0px 3px 15px 1px rgba(255,255,255,0.4); -webkit-box-shadow: 0px 3px 15px 1px rgba(255,255,255,0.4); }
 
   @media (max-width: 1799px) {
     #grid {
@@ -90,6 +93,8 @@
       <img src="img/gallery/dhawal-mehta-7.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-5.jpg" alt="Dhawal Mehta">
     </section>
+
+    <a href="http://dhawalmehta.com/" class="go-back">Go Back</a>
 
     <script>
 
