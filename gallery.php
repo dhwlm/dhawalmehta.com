@@ -3,7 +3,7 @@
   <style>
   * {margin: 0; padding: 0; -webkit-transition: all 0.65s ease;-moz-transition: all 0.65s ease;-ms-transition: all 0.65s ease;-o-transition: all 0.65s ease;transition: all 0.65s ease;}
 
-  body {background: #000;}
+  body {background: url(img/gif-load.gif) center center no-repeat  #000; }
 
   #grid {
     /* Prevent vertical gaps */
