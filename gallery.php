@@ -76,6 +76,7 @@
       <img src="img/gallery/dhawal-mehta-2.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-20.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-6.jpg" alt="Dhawal Mehta">
+      <img src="img/gallery/dhawal-mehta-28.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-8.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-26.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-21.jpg" alt="Dhawal Mehta">
@@ -87,10 +88,12 @@
       <img src="img/gallery/dhawal-mehta-13.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-15.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-14.jpg" alt="Dhawal Mehta">
+      <img src="img/gallery/dhawal-mehta-27.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-16.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-17.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-3.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-19.jpg" alt="Dhawal Mehta">
+      <img src="img/gallery/dhawal-mehta-29.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-22.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-7.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-5.jpg" alt="Dhawal Mehta">
