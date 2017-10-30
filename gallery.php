@@ -68,6 +68,7 @@
   </style>
 
     <section id="grid">
+      <img src="img/gallery/dhawal-mehta-28.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-12.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-23.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-11.jpg" alt="Dhawal Mehta">
@@ -76,7 +77,6 @@
       <img src="img/gallery/dhawal-mehta-2.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-20.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-6.jpg" alt="Dhawal Mehta">
-      <img src="img/gallery/dhawal-mehta-28.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-8.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-26.jpg" alt="Dhawal Mehta">
       <img src="img/gallery/dhawal-mehta-21.jpg" alt="Dhawal Mehta">
