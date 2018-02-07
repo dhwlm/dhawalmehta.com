@@ -47,9 +47,8 @@
 
     <link rel="shortcut icon" href="img/favicon.png">
     <!-- Bootstrap -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css" />
-
-    <link rel="stylesheet" type="text/css" href="css/component.min.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/component.min.css" /> -->
     <!-- <link rel="stylesheet" type="text/css" href="css/stylesheet.css" /> -->
     <style media="screen">
     *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
@@ -120,6 +119,8 @@
 
   </head>
   <body>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/component.min.css" />
     <style>
       @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
     </style>
