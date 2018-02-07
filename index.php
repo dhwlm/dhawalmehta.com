@@ -32,10 +32,10 @@
     </div>
 
     <script src="js/bootstrap.min.js"></script>
-      <script src="js/typed.min.js"></script>
-      <script src="js/classie.min.js"></script>
-      <script src="js/menu.min.js"></script>
-      <script src="js/common.min.js"></script>
+    <script src="js/typed.min.js"></script>
+    <script src="js/classie.min.js"></script>
+    <script src="js/menu.min.js"></script>
+    <script src="js/common.min.js"></script>
 
       <script>
 
