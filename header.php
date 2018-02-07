@@ -125,4 +125,4 @@
 
   </head>
   <body>
-    <script async src="js/modernizr.custom.25376.js"></script>
+    <script src="js/modernizr.custom.25376.js"></script>
