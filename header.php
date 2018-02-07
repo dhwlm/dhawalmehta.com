@@ -47,7 +47,7 @@
 
     <link rel="shortcut icon" href="img/favicon.png">
     <!-- Bootstrap -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css" />
+    <link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css" href="css/bootstrap/bootstrap.min.css" />
     <link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css" href="css/component.min.css" />
     <link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css" href="css/stylesheet.css" />
     <!-- csstransforms3d-shiv-cssclasses-prefixed-teststyles-testprop-testallprops-prefixes-domprefixes-load -->
