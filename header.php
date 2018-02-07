@@ -52,8 +52,6 @@
     <link rel="stylesheet" type="text/css" href="css/component.min.css" />
     <!-- <link rel="stylesheet" type="text/css" href="css/stylesheet.css" /> -->
     <style media="screen">
-    @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
-
     *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
     a {	text-decoration: none;	color: #ed8151;outline: none;}
@@ -122,6 +120,9 @@
 
   </head>
   <body>
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+    </style>
     <link rel="stylesheet" type="text/css" href="css/bootstrap/font-awesome.min.css" />
     <script src="js/modernizr.custom.25376.js"></script>
     <script src="js/jquery.min.js"></script>
