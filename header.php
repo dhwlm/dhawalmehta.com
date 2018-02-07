@@ -48,7 +48,7 @@
     <link rel="shortcut icon" href="img/favicon.png">
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="css/bootstrap/font-awesome.min.css" />
+
     <link rel="stylesheet" type="text/css" href="css/component.min.css" />
     <!-- <link rel="stylesheet" type="text/css" href="css/stylesheet.css" /> -->
     <style media="screen">
@@ -117,12 +117,11 @@
     }
 
     </style>
-
-
     <!-- csstransforms3d-shiv-cssclasses-prefixed-teststyles-testprop-testallprops-prefixes-domprefixes-load -->
     <meta name="google-site-verification" content="w1HmuQJ292m7QtIsb7AkcsisXk446OCpj6DZIsGYKQc" />
 
   </head>
   <body>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap/font-awesome.min.css" />
     <script src="js/modernizr.custom.25376.js"></script>
     <script src="js/jquery.min.js"></script>
