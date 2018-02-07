@@ -47,7 +47,7 @@
 
     <link rel="shortcut icon" href="img/favicon.png">
     <!-- Bootstrap -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="css/component.min.css" />
     <!-- <link rel="stylesheet" type="text/css" href="css/stylesheet.css" /> -->
