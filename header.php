@@ -121,8 +121,8 @@
 
     <!-- csstransforms3d-shiv-cssclasses-prefixed-teststyles-testprop-testallprops-prefixes-domprefixes-load -->
     <meta name="google-site-verification" content="w1HmuQJ292m7QtIsb7AkcsisXk446OCpj6DZIsGYKQc" />
-    <script src="js/jquery.js"></script>
 
   </head>
   <body>
     <script src="js/modernizr.custom.25376.js"></script>
+    <script src="js/jquery.min.js"></script>
