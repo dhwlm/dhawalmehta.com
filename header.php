@@ -45,11 +45,14 @@
     </script>
 
 
-    <link rel="shortcut icon" href="img/favicon.png">
+    <link rel="shortcut icon" href="img/favicon.png" media="all">
     <!-- Bootstrap -->
     <link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css" href="css/bootstrap/bootstrap.min.css" />
     <link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css" href="css/component.min.css" />
-    <link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css" href="css/stylesheet.css" />
+    <link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css" href="css/stylesheet.min.css" />
+    <style>
+
+    </style>
     <!-- csstransforms3d-shiv-cssclasses-prefixed-teststyles-testprop-testallprops-prefixes-domprefixes-load -->
     <meta name="google-site-verification" content="w1HmuQJ292m7QtIsb7AkcsisXk446OCpj6DZIsGYKQc" />
 
